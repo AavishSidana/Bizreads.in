@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: aqua; color: black;
+    text-align: center;
+    height: 56px;
+    border: 2px solid black;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 149px;
+    padding: 14px;
+    border: 2px solid white;
+}
+section{
+    padding: 18px;
+    color: black;
+}   
+#section2{
+ padding: 18px;
+ background-color: yellow;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ gap: 15px;
+ border: 2px solid red;
+}
+.h2c{
+    text-align: center;
+    padding: 18px;
+    color: red;
+}
+#h2i{
+    text-align: center;
+    color: red;
+    padding: 18px;
+}
+form{
+    display: flex;
+    gap: 6px;
+    padding: 14px;
+margin: 8px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+#submit{
+    color: blue;
+}
+#h2c{
+    color: red;
+    text-align: center;
+    margin-top: 8px;
+}
+img{
+    border: 2px solid white;
+}
+a{
+    gap: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
